@@ -1,0 +1,32 @@
+{
+  "name": "awesomewebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstanley-me/awesomeWebpack.git"
+  },
+  "keywords": [],
+  "author": "Stanley SIMEON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstanley-me/awesomeWebpack/issues"
+  },
+  "homepage": "https://github.com/mstanley-me/awesomeWebpack#readme",
+  "devDependencies": {
+    "css-loader": "^6.6.0",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  },
+  "dependencies": {
+    "luxon": "^2.3.0"
+  }
+}
