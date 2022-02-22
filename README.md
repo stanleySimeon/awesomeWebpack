@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-- [Live Demo Link](https://mstanley-me.github.io/awesomePack/)
+- [Live Demo Link](https://mstanley-me.github.io/awesomeWebpack/)
 
 
 ## Getting Started
@@ -36,4 +36,4 @@ Give a ⭐️ if you like this project!
 ## LICENSE
 
 This project is MIT licensed.
-[License](https://github.com/mstanley-me/awesomePack/blob/main/LICENSE)
+[License](https://github.com/mstanley-me/awesomeWebpack/blob/main/LICENSE)
