@@ -14,17 +14,27 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-- [Live Demo Link](https://mstanley-me.github.io/awesomeWebpack/)
+- [Live Demo Link](https://stanleySimeon.github.io/awesomeWebpack/)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
+```sh
+  - git clone https://github.com/stanleySimeon/awesomeWebpack.git
+  - Navigate to the project directory.
+    Example: (cd Desktop/awesomeWebpack)
+  - npm install
+  - npm start
+  - navigate to the browser and type: localhost:3000
+  ```
+
 👤 **Author**
-- Stanley SIMEON
-- GitHub: [https://github.com/mstanley-me]
-- LinkedIn: [https://www.linkedin.com/in/stanley-simeon-881091224/]
+
+- GitHub: [@stanleySimeon](https://github.com/stanleySimeon)
+- Twitter: [@mstanleyme](https://twitter.com/mstanleyme)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/stanleysimeon)
 
 ## 🤝 Contributing
 
@@ -36,4 +46,4 @@ Give a ⭐️ if you like this project!
 ## LICENSE
 
 This project is MIT licensed.
-[License](https://github.com/mstanley-me/awesomeWebpack/blob/main/LICENSE)
+[License](https://github.com/stanleySIMEON/awesomeWebpack/blob/main/LICENSE)
